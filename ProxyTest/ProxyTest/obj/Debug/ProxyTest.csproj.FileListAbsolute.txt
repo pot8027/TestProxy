@@ -1,0 +1,9 @@
+D:\develop\Test\ProxyTest\ProxyTest\bin\Debug\ProxyTest.exe.config
+D:\develop\Test\ProxyTest\ProxyTest\bin\Debug\ProxyTest.exe
+D:\develop\Test\ProxyTest\ProxyTest\bin\Debug\ProxyTest.pdb
+D:\develop\Test\ProxyTest\ProxyTest\obj\Debug\ProxyTest.csprojAssemblyReference.cache
+D:\develop\Test\ProxyTest\ProxyTest\obj\Debug\ProxyTest.Properties.Resources.resources
+D:\develop\Test\ProxyTest\ProxyTest\obj\Debug\ProxyTest.csproj.GenerateResource.cache
+D:\develop\Test\ProxyTest\ProxyTest\obj\Debug\ProxyTest.csproj.CoreCompileInputs.cache
+D:\develop\Test\ProxyTest\ProxyTest\obj\Debug\ProxyTest.exe
+D:\develop\Test\ProxyTest\ProxyTest\obj\Debug\ProxyTest.pdb
